@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  title: details
+  description: |-
+    Details API
+  version: 1
+servers:
+  - url: "http://localhost:8080"
+  - url: "https://microcks-microcks.apps.cluster-p28j5.p28j5.sandbox1687.opentlc.com/rest/details/1"
+paths: {}
